@@ -18,3 +18,4 @@ Please ensure that Admin$ should be enabled and 445 should opened in both firewa
  2. Target Server IP should be communicable with admin$ permission and via 445 port from Vanguard VM.
  3. Double click on the run.bat or open the cmd prompt and execute the run.bat file.
  4. Once the uninstallation process completed in the target VM, Report will generat automatically in the name of VMWareRemovalReport.csv file
+ 5. Please use double quotes execpt for IP address in targetvmdetails.csv.

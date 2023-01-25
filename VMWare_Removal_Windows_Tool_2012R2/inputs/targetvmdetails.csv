@@ -1,3 +1,3 @@
 NODEIP,OSTYPE,PORT,USERNAME,PASSWORD
-ipaddress,windows,445,vmusername,password
-ipaddress,windows,445,vmusername,password
+ipaddress,"windows","445","vmusername","password"
+ipaddress,"windows","445","vmusername","password"
